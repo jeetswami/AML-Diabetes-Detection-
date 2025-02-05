@@ -32,11 +32,11 @@ The project involved the following steps:
 ## Results
 | Model             | Accuracy | AUC | CV Runtime (seconds) |
 |-------------------|----------|-----|----------------------|
-| AdaBoost          | 0.97     | 0.98| 22.11                |
-| Gradient Boosting | 0.97     | 0.94| 14.29                |
-| Neural Network    | 0.96     | 0.96| 37.42                |
-| Random Forest     | 0.97     | 0.96| 34.48                |
-| Decision Tree     | 0.96     | 0.86| 0.61                 |
+| AdaBoost          | 0.97     | 0.98| 25.25                |
+| Gradient Boosting | 0.97     | 0.94| 12.51                |
+| Neural Network    | 0.96     | 0.96| 17.17                |
+| Random Forest     | 0.97     | 0.96| 26.24                |
+| Decision Tree     | 0.96     | 0.86| 0.52                 |
 
 ## Technologies Used
 - **Programming Language:** Python
